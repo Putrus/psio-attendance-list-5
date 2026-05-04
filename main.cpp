@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"Jakub Hurnowicz";
+   cout<<"Marcin Putra"<<endl;
+	cout<<"Jakub Hurnowicz"<<endl;
 }
