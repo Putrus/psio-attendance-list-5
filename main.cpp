@@ -5,4 +5,5 @@ int main(){
 	cout<<"Jakub Hurnowicz"<<endl;
 	cout<<"Mikolaj Grzeskowiak"<<endl;
 	cout<<"Kinga Haladyn"<<endl;
+	cout<<"Zofia Hyzyk"<<endl;
 }
