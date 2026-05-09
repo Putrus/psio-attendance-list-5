@@ -7,4 +7,5 @@ int main(){
 	cout<<"Kinga Haladyn"<<endl;
 	cout<<"Zofia Hyzyk"<<endl;
 	cout<<"Hubert Hasse"<<endl;
+	cout<<"Karol Halupka"<<endl;
 }
