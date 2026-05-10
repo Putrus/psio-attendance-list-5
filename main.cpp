@@ -8,4 +8,5 @@ int main(){
 	cout<<"Zofia Hyzyk"<<endl;
 	cout<<"Hubert Hasse"<<endl;
 	cout<<"Karol Halupka"<<endl;
+	cout<<"Maks Hrabski"<<endl;
 }
