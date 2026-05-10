@@ -10,4 +10,5 @@ int main(){
 	cout<<"Karol Halupka"<<endl;
 	cout<<"Maks Hrabski"<<endl;
 	cout<<"Szymon Grzeskowiak"<<endl;
+	cout << "Jakub Gonda" << endl;
 }
